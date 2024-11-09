@@ -25,7 +25,7 @@ Senior Full-stack developer with 11 years of experience specializing in modern J
 - Code review and mentoring
 
 ## 📈 GitHub Activity
-[![Pravar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravarkulkarni&show_icons=true&theme=radical)](https://github.com/pravarkulkarni/github-readme-stats)
+[![Pravar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravarkulkarni&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Featured Contributions
 *Coming soon - This section will be updated with my open-source contributions and bounty completions*
